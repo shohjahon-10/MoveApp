@@ -15,7 +15,7 @@ function App() {
   return (
     <Box className="App" p={4}>
       <Heading as="h1" mb={6} textAlign="center">
-        Filmlar Asri
+        Films From Shohjahon
       </Heading>
       <Flex as="nav" justify="center" mb={6}>
         <List display="flex" gap={4}>
